@@ -17,13 +17,13 @@ Distribution Alternatives:
 ### Installation
 
 * On MacOS be sure to install a code terminal emultator like kitty, then install neovim
-<code>
+```bash
 brew install kitty
 brew install neovim
 mkdir ~.config/nvim && cd $_
 git clone https://github.com/rdoetjes/neovim
-</code>
-
+```
+<p>
 Kickstart.nvim targets *only* the latest ['stable'](https://github.com/neovim/neovim/releases/tag/stable) and latest ['nightly'](https://github.com/neovim/neovim/releases/tag/nightly) of Neovim. If you are experiencing issues, please make sure you have the latest versions.
 
 * Backup your previous configuration
