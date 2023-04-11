@@ -16,7 +16,7 @@ Distribution Alternatives:
 
 ### Installation
 
-* On MacOS be sure to install a code terminal emultator like kitty, then install neovim
+* On MacOS be sure to install a code terminal emultator like kitty (as that will allow termguicolor), then install neovim
 ```bash
 brew install kitty
 brew install neovim
