@@ -14,7 +14,8 @@ map("n", "<Leader>gpu", ":!git push<CR>")
 map("n", "<Leader>gpl", ":!git pull<CR>")
 map("n", "<Leader>ma", ":!make<CR>")
 map("n", "<Leader>cr", ":!cargo run<CR>")
-map("n", "<Leader>cb", ":!cargo run<CR>")
+map("n", "<Leader>cb", ":!cargo build<CR>")
+map("n", "<Leader>cbr", ":!cargo build --release<CR>")
 
 --vim options
 vim.opt.number = true
