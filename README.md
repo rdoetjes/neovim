@@ -20,7 +20,7 @@ Distribution Alternatives:
 ```bash
 brew install kitty
 brew install neovim
-mkdir ~.config/nvim && cd $_
+mkdir ~/.config/nvim && cd $_
 git clone https://github.com/rdoetjes/neovim
 ```
 <p>
